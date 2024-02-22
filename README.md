@@ -32,6 +32,8 @@ EDA includes box plots to visualize the distribution of features and a pair plot
 ### Model Training and Evaluation
 A linear regression model is trained using the sklearn library. The model is then evaluated using Mean Squared Error (MSE) and the Ordinary Least Squares (OLS) principle. The evaluation results provide insights into the model's performance.
 
+### [Red Wine Analysis File](https://github.com/prathamgupta36/Wine-Quality-Analysis/blob/main/Red%20Wine%20Analysis.ipynb)
+
 ## White Wine
 
 ### Introduction
@@ -49,6 +51,8 @@ EDA for white wine includes box plots, pair plots, and heatmaps to visualize fea
 
 ### Model Training and Evaluation
 The linear regression model is trained and evaluated for white wine, mirroring the process for red wine. Performance metrics and analysis results are provided.
+
+### [White Wine Analysis File](https://github.com/prathamgupta36/Wine-Quality-Analysis/blob/main/White%20Wine%20Analysis.ipynb)
 
 ---
 
