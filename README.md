@@ -60,3 +60,6 @@ The linear regression model is trained and evaluated for white wine, mirroring t
 
 ---
 *Disclaimer: The data used in this analysis is sourced from P. Cortez et al.'s study, referenced above. Any analysis or predictions made are based on the available data and the assumptions of the linear regression model. Users are encouraged to interpret the results critically and consider the limitations of the dataset.*
+
+---
+*Contributions: Just fork the repository, make a branch, then push the changes to be reviewed.*
